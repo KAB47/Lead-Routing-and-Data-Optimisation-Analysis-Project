@@ -116,7 +116,7 @@ python main.py
 
 ```
 Project File Overview
-├── Lead Routing and Data Optimisation Panel Presentation.pdf # Adobe InDesign (PowerPoint) Presentation of the whole project
+├── Lead Routing and Data Optimisation Panel Presentation.pdf # Adobe InDesign (PowerPoint) Presentation of the whole project (Please download, as it is not viewable on Github directly)
 ├── Dataset.csv
 ├── Dataset After Put Through 'Role Correction Code Base.csv
 ├── 01 Mismatch Detection.py # Region vs. billing country audit

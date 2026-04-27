@@ -115,16 +115,13 @@ python main.py
 ## Project Structure
 
 ```
-Panel Presentation + Code/
-├── Lead Routing and Data Optimisation Panel Presentation.pdf
-├── data pdf.pdf
-├── Code 1/
-│   ├── main.py                                      # Region vs. billing country audit
-│   └── Intern Assignment - Data Set - Sheet1 (2).csv
-├── Code 2/
-│   ├── main.py                                      # Large account SDR coverage audit
-│   └── Intern Assignment - Data Set - Sheet1 (2).csv
-└── Code 3/
-    ├── main.py                                      # Automated rep role correction
-    └── code_to_use.xlsb.csv
+Project File Overview
+├── Lead Routing and Data Optimisation Panel Presentation.pdf # Adobe InDesign (PowerPoint) Presentation of the whole project
+├── Dataset.csv
+├── Dataset After Put Through 'Role Correction Code Base.csv
+├── 01 Mismatch Detection.py # Region vs. billing country audit
+├── 02 SDR Coverage Audit.py # Large account SDR coverage audit
+├── 03 Role Correction.py # Automated rep role correction
+├── README.md                           
+
 ```

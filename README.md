@@ -122,6 +122,7 @@ Project File Overview
 ├── 01 Mismatch Detection.py # Region vs. billing country audit
 ├── 02 SDR Coverage Audit.py # Large account SDR coverage audit
 ├── 03 Role Correction.py # Automated rep role correction
+├── Dashboard # PowerBI dashboard to showcase Insights (Please download to view, as it is not viewable on GitHub directly)
 ├── README.md                           
 
 ```

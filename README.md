@@ -1,4 +1,4 @@
-# Lead Routing and Data Optimisation — Snowflake Panel Presentation
+# Lead Routing and Data Optimisation — Snowflake Panel Analysis/Data Science Project
 
 A multi-tool data analysis project auditing a Snowflake EMEA CRM dataset of ~22,857 accounts to diagnose broken SDR and Comm Rep lead routing, quantify the damage, and propose fixes — using Excel, Power BI, and Python.
 

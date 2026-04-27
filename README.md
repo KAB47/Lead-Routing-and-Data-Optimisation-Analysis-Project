@@ -6,7 +6,7 @@ A multi-tool data analysis project auditing a Snowflake EMEA CRM dataset of ~22,
 
 Auditing ~22,000 Snowflake EMEA CRM accounts to find why SDRs and Comm Reps were receiving wrong leads — using Excel to flag mismatches, Power BI to visualise them, and Python to automate corrections.
 
-Main Insights Found/Outcomes
+**Main Insights Found/Outcomes**
 1. 24% of all leads (4,446 accounts) are incorrectly routed. 
 2. Germany has the highest mismatch rate at 58%. 
 3. 70% of mismatches involve enterprise accounts (500+ employees). 

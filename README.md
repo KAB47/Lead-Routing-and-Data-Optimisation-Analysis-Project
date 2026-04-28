@@ -116,15 +116,15 @@ python main.py
 
 ```
 Project File Overview
-├── Lead Routing and Data Optimisation Panel Presentation.pdf # Adobe InDesign (PowerPoint) Presentation of the whole project (Please download, as it is not viewable on Github directly because the file size is too large at 28MB)
+├── Lead Routing and Data Optimisation Panel Presentation.pdf # Adobe InDesign (PowerPoint) presentation of the whole project
 ├── Dataset.csv
 ├── Dataset After Put Through 'Role Correction Code Base.csv
 ├── 01 Mismatch Detection.py # Region vs. billing country audit
 ├── 02 SDR Coverage Audit.py # Large account SDR coverage audit
 ├── 03 Role Correction.py # Automated rep role correction
-├── Dashboard # PowerBI dashboard to showcase Insights (Please download to view, as it is not viewable on GitHub directly)
-├── Dashboard(PowerBi File).pbix
+├── Dashboard # PowerBI dashboard to showcase Insights (PDF format allows viewing directly on Github)
+├── Dashboard (PowerBi File).pbix # (Please download to view and have PowerBI installed,
+as its in 'pbix' format, it is not viewable on GitHub directly)
 ├── Dashboard.pdf
-├── README.md                           
-
+└── README.md                           
 ```

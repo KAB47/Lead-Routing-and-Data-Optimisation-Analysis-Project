@@ -12,7 +12,7 @@ Auditing ~22,000 Snowflake EMEA CRM accounts to find why SDRs and Comm Reps were
 3. **70%** of mismatches involve enterprise accounts (500+ employees). 
 4. **3,796** large accounts have zero SDR coverage. 
 5. **65%** of all rows have billing country misaligned with account owner region. 
-6. Some Comm Reps are managing enterprise accounts they shouldn't own, and certain **SDRs are under-assigned** relative to expected pipeline volume.
+6. **Some Comm Reps are managing enterprise accounts they shouldn't own**, and certain **SDRs are under-assigned** relative to expected pipeline volume.
 
 ## Background
 

@@ -4,7 +4,7 @@ A multi-tool data analysis project auditing a Snowflake EMEA CRM dataset of ~22,
 
 ## TL;DR
 
-Auditing ~22,000 Snowflake EMEA CRM accounts to find why SDRs and Comm Reps were receiving wrong leads — using Excel to flag mismatches, Power BI to visualise them, and Python (Pandas) to automate corrections.
+Auditing ~22,000 Snowflake EMEA CRM accounts to find why SDRs and Comm Reps were receiving wrong leads — using Excel to flag mismatches, Power BI to visualise them, and Python (Pandas) to audit/detect inconsistencies and automate corrections.
 
 **Main Insights Found/Outcomes**
 1. **24%** of all leads (4,446 accounts) are incorrectly routed. 
